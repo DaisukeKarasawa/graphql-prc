@@ -2,7 +2,7 @@
 
 #### [GraphQLって何それ。おいしいの？](https://github.com/DaisukeKarasawa/graphql-prc/tree/main/basic-chap)
 
-GraphQLについての基本知識について
+GraphQLの基本知識について
 
 #### [GraphQLのコアコンセプト](https://github.com/DaisukeKarasawa/graphql-prc/tree/main/core-chap)
 

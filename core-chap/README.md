@@ -2,7 +2,7 @@
 
 ### スキーマの定義言語（SDL）
 
-GraphQLには、APIのスキーマを定義するために使う[スキーマ定義言語（SDL)](https://github.com/DaisukeKarasawa/graphql-prc/blob/main/schema-definition-language/READNE.md)という構文がある。
+GraphQLには、APIのスキーマを定義するために使う[スキーマ定義言語（SDL)](https://github.com/DaisukeKarasawa/graphql-prc/tree/main/schema-definition-language)という構文がある。
 
 ```
 // 例）Userという型の定義
