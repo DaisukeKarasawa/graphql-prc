@@ -1,9 +1,13 @@
 ## [「GraphQL」](https://graphql.org)
 
-#### [GraphQLって何それ。おいしいの？](https://github.com/DaisukeKarasawa/graphql-prc/tree/main/basic-chap)
+#### [GraphQL って何それ。おいしいの？](https://github.com/DaisukeKarasawa/graphql-prc/tree/main/basic-chap)
 
-GraphQLの基本知識について
+GraphQL の基本知識について
 
-#### [GraphQLのコアコンセプト](https://github.com/DaisukeKarasawa/graphql-prc/tree/main/core-chap)
+#### [GraphQL のコアコンセプト](https://github.com/DaisukeKarasawa/graphql-prc/tree/main/core-chap)
 
-GraphQLを使う上で中心となる知識について
+GraphQL を使う上で中心となる知識について
+
+#### [GraphQL のプロジェクト]()
+
+GraphQL の公式ドキュメントに基づいた Ruby on Rails によるプロジェクトの作成
