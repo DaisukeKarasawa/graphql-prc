@@ -8,6 +8,6 @@ GraphQL の基本知識について
 
 GraphQL を使う上で中心となる知識について
 
-#### [GraphQL のプロジェクト]()
+#### [GraphQL のプロジェクト](https://github.com/DaisukeKarasawa/graphql-tutorial)
 
 GraphQL の公式ドキュメントに基づいた Ruby on Rails によるプロジェクトの作成
